@@ -1,0 +1,90 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "brand": "Renault",
+      "model": "Clio",
+      "color": "#f50505"
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "color": "#66d6a2",
+      "id": 2
+    },
+    {
+      "brand": "Fiat",
+      "model": "Panda",
+      "color": "#e70dca",
+      "id": 3
+    },
+    {
+      "brand": "Toyota",
+      "model": "Yaris",
+      "color": "",
+      "id": 4
+    },
+    {
+      "brand": "Ford",
+      "model": "Puma",
+      "color": "#ebcbcb",
+      "id": 5
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "color": "#ecf934",
+      "id": 6
+    },
+    {
+      "brand": "Renault",
+      "model": "R5",
+      "color": "#877d7d",
+      "id": 7
+    },
+    {
+      "brand": "BMW",
+      "model": "X5",
+      "color": "#da16b6",
+      "id": 8
+    },
+    {
+      "brand": "Mercedes",
+      "model": "Classe A",
+      "color": "#a00303",
+      "id": 9
+    },
+    {
+      "brand": "Suzuki",
+      "model": "Jimny",
+      "color": "#53ca87",
+      "id": 10
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "ID3",
+      "color": "#397fc0",
+      "id": 11
+    },
+    {
+      "brand": "Renault",
+      "model": "Twingo E",
+      "color": "#dba206",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@gestcar.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "user@gestcar.com",
+      "password": "user123",
+      "role": "user"
+    }
+  ]
+}
